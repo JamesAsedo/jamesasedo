@@ -9,6 +9,7 @@ This repository contains projects I’ve completed in areas such as help desk sy
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+A complete end-to-end deployment and configuration of an open-source ticketing system used for managing internal support queues.
   - [osTicket: Prerequisites and Installation](https://github.com/JamesAsedo/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JamesAsedo/post-install-config)
   - [osTicket: Explore osTicket](https://github.com/JamesAsedo/ticket-lifecycle)
