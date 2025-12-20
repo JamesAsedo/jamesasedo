@@ -1,4 +1,10 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/james-asedo/">James</a>, an IT Professional.</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/james-asedo/">James</a>, an IT & Cybersecurity Professional.</h1>
+
+Welcome to my IT Projects! I'm an Air Force veteran transitioning into IT & cybersecurity with hands-on lab experience, real system builds, and practical IT projects. This portfolio showcases projects that demonstrate my ability to solve real technical problems, document outcomes clearly, and apply security-aligned skills.
+
+<h2> What you'll Find Here</h2>
+
+This repository contains projects I’ve completed in areas such as help desk systems, cloud networking, and foundational security. Each project includes steps taken, tools used, and outcomes achieved.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
