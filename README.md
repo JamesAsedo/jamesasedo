@@ -18,7 +18,7 @@ A complete end-to-end deployment and configuration of an open-source ticketing s
     - [osTicket: Post-Installation Configuration](https://github.com/JamesAsedo/post-install-config)
     - [osTicket: Explore osTicket](https://github.com/JamesAsedo/ticket-lifecycle)<br>
     
-  **Skills demonstrated:** IT Infrastructure & Server Deployment; Web Application Installation & Configuration; Permissions, Security, and Access Control; IT Service Management & Ticketing Workflows; Operational Troubleshooting & Documentation.
+  **Skills demonstrated:** Windows Server & IIS configuration, Cloud-based virtual machine deployment (Azure), IT ticketing systems & ITSM workflows, Application security & permissions management, and technical documentation & operational procedures.
 
 - <b>Azure Networking & Active Directory Labs</b><br>
 Cloud-based lab environments showcasing network design and Active Directory integration within Azure virtual machines.
