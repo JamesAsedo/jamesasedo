@@ -29,7 +29,7 @@ Cloud-based lab environments showcasing network design and Active Directory inte
     - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JamesAsedo/configure-active-directory)
     - [Exploring Azure and Networking Concepts](https://github.com/JamesAsedo/azure-network-protocols)<br>
 
-  **Skills demonstrated:** Azure cloud, virtual networking, AD fundamentals, troubleshooting.
+  **Skills demonstrated:** Active Directory administration & domain management, Identity and access management (IAM), Azure virtual networking & VM deployment, Network traffic analysis with Wireshark, and network security controls (NSGs, firewall rules).
 
 <h2>Why These Projects Matter</h2>
 
