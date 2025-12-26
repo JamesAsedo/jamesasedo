@@ -47,7 +47,7 @@ Each project is designed to show **practical application** of key concepts:
 | Operating Systems | Ubuntu / Windows Server |
 | Networking | Azure Virtual Networks, Subnets |
 | Systems | Active Directory |
-| Deployment | WIMP stack |
+| Deployment | Windows + IIS + MySQL + PHP (WIMP stack) |
 | Documentation | Markdown, Screenshots |
 
 ---
